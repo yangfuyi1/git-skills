@@ -19,4 +19,8 @@ if(a=0)
 {
 b=666;   //yangfuyi
 }
+else
+{
+b=888  //yang
+}
 }
