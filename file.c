@@ -14,4 +14,9 @@ rebase   rebase //yangfuyi
 
 //commint 1   chenyipin
 //commit 2 chenyipin
+
+if(a=0)
+{
+b=666;   //yangfuyi
+}
 }
